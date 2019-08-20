@@ -8,7 +8,7 @@ variables:
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotnetSDKver: '2.1.505'
 
-triggers:
+trigger:
   branches:
     include:
       - '*'
